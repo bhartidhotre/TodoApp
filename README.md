@@ -19,3 +19,4 @@ A simple todo app allowing users to add, delete, and mark tasks as completed.
 1. Clone the repository:
 ```bash
 git clone https://github.com/bhartidhotre/TodoApp.git
+2.Open index.html in a browser to view the project.
